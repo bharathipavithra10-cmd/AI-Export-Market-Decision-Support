@@ -186,15 +186,7 @@ Current Stage
 - Data collection completed
 - Project implementation in progress
 
----
 
-## Author
-
-Harish Padmanabhan
-
-MS in Data Analytics Engineering
-
-Northeastern University
 
 ---
 
@@ -204,12 +196,3 @@ This repository is developed for academic research purposes.
 ````
 
 ---
-
-### I also recommend adding these files to your repository:
-
-* `LICENSE` (MIT License)
-* `.gitignore`
-* `requirements.txt`
-* `CONTRIBUTING.md` (optional)
-
-This will make your repository look much more professional.
